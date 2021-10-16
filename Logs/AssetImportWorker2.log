@@ -1136,3 +1136,251 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 109.016965 seconds.
+  path: Assets/Animations/Pistol.controller
+  artifactKey: Guid(d82d48408cbe7bf4a8cd5f7fcfe386ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Pistol.controller using Guid(d82d48408cbe7bf4a8cd5f7fcfe386ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8efe89ac7e47e08767e4f7183f0193') in 0.069801 seconds 
+  Import took 0.075565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.476846 seconds.
+  path: Assets/Models/RobotRampage_Bot_v1.fbx
+  artifactKey: Guid(fb900ac847b684cda925ff9b43688031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Bot_v1.fbx using Guid(fb900ac847b684cda925ff9b43688031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bade0929894ca3bc5425352136631c88') in 0.939156 seconds 
+  Import took 0.945923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/RobotRampage_Pickup_Ammo.blend
+  artifactKey: Guid(a69030052afe0437490b368f6f3a11b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Pickup_Ammo.blend using Guid(a69030052afe0437490b368f6f3a11b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78659715346131ef74e2a9eeb0a5e45') in 0.709205 seconds 
+  Import took 0.716192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Models/RobotRampage_Wall-Post.blend
+  artifactKey: Guid(0cae319aeebd340d68d5eea8bae42aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Wall-Post.blend using Guid(0cae319aeebd340d68d5eea8bae42aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a1e4e86f485bf81769c0f1f0c022d9') in 0.262127 seconds 
+  Import took 0.290701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Models/RobotRampage_ParticleSmoke.blend
+  artifactKey: Guid(8745635dbac3a4f9a8c53624d16a3b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_ParticleSmoke.blend using Guid(8745635dbac3a4f9a8c53624d16a3b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daea39819b02550cd8c5101b230f880') in 0.114804 seconds 
+  Import took 0.119915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Models/RobotRampage_Pickup_Health.blend
+  artifactKey: Guid(6c43464943ca24aeda68fdd20b321b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Pickup_Health.blend using Guid(6c43464943ca24aeda68fdd20b321b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f7f992bd9514fdf58842bd550555d9') in 0.224240 seconds 
+  Import took 0.230097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Models/RobotRampage_Shotgun.fbx
+  artifactKey: Guid(6f08686d23bef304a93c7f4af1e8f17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Shotgun.fbx using Guid(6f08686d23bef304a93c7f4af1e8f17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54cab2cf34673e61f46c4b410bd9627') in 0.223682 seconds 
+  Import took 0.229595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Models/RobotRampage_BotBall_v1.blend
+  artifactKey: Guid(a2ac354ba9ee44b57a05ae6430047c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_BotBall_v1.blend using Guid(a2ac354ba9ee44b57a05ae6430047c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64045cd1f4d5bab6f6afb6bbee86ffbb') in 0.099518 seconds 
+  Import took 0.104911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Models/RobotRampage_Teleporter.blend
+  artifactKey: Guid(426e8b241d26048d6a27c8e1d266ebdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Teleporter.blend using Guid(426e8b241d26048d6a27c8e1d266ebdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91297e933f99a970824c64dd8148ae7') in 0.306488 seconds 
+  Import took 0.311914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Models/RobotRampage_Projectile_v1.blend
+  artifactKey: Guid(c90116297957c499a9ee51bf55e47dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Projectile_v1.blend using Guid(c90116297957c499a9ee51bf55e47dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd92d50201f95b6a0e295b16a4dd291b') in 0.102734 seconds 
+  Import took 0.108574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Models/RobotRampage_Wall.blend
+  artifactKey: Guid(6955a90d383c1430686eabea7ea76478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Wall.blend using Guid(6955a90d383c1430686eabea7ea76478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af8139017d204e20c3a8efcd824c01af') in 0.141521 seconds 
+  Import took 0.147028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Models/RobotRampage_Pickup_Armor.blend
+  artifactKey: Guid(5f27c30c422fc4cbc8056b935b45262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Pickup_Armor.blend using Guid(5f27c30c422fc4cbc8056b935b45262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7250ea545cc2ca559ee2c47e72fa0ec') in 0.217653 seconds 
+  Import took 0.223393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.235266 seconds.
+  path: Assets/Models/RobotRampage_AssaultRifle.fbx
+  artifactKey: Guid(a8dd7506f95e7d946a1030be85c479db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_AssaultRifle.fbx using Guid(a8dd7506f95e7d946a1030be85c479db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c08a5903d0fe60c64cb131d510d9d3') in 0.258351 seconds 
+  Import took 0.265287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Models/RobotRampage_Pistol.fbx
+  artifactKey: Guid(e4be631cda7f47448a35b76f4af4ab7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RobotRampage_Pistol.fbx using Guid(e4be631cda7f47448a35b76f4af4ab7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcb3154f436b9b4eadf3797f6e36db0') in 0.173656 seconds 
+  Import took 0.179433 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012882 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.137 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2138ms)
+		BeginReloadAssembly (273ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (106ms)
+		EndReloadAssembly (1722ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (530ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (756ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (569ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.8 MB.
+System memory in use after: 69.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1922.
+Total: 6.509000 ms (FindLiveObjects: 0.351800 ms CreateObjectMapping: 0.062900 ms MarkObjects: 6.041100 ms  DeleteObjects: 0.049600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 172.044829 seconds.
+  path: Assets/Animations/Pistol 1.controller
+  artifactKey: Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Pistol 1.controller using Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e63f9b41c7dfcbaad4d70a6a64b417') in 0.059086 seconds 
+  Import took 0.088775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.814975 seconds.
+  path: Assets/Animations/Pistol 2.controller
+  artifactKey: Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Pistol 2.controller using Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266c8b32b32cbfa1c8b3a1b56719069d') in 0.214232 seconds 
+  Import took 0.238063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.949467 seconds.
+  path: Assets/Animations/Pistol 1.controller
+  artifactKey: Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Pistol 1.controller using Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e3ff7041eab0f9bc8b27e45c2a4d20') in 0.025039 seconds 
+  Import took 0.030837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.361248 seconds.
+  path: Assets/Animations/Shotgun.controller
+  artifactKey: Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Shotgun.controller using Guid(4c5d36ca27de4774daff0a6a7ce3d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff04272082f3e23d1083632c7c3a67f') in 0.028009 seconds 
+  Import took 0.036161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.530609 seconds.
+  path: Assets/Animations/AssaultRifile.controller
+  artifactKey: Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AssaultRifile.controller using Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e12044e941c38668cfe245465260e6') in 0.034896 seconds 
+  Import took 0.040366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.992020 seconds.
+  path: Assets/Animations/AssaultRifle.controller
+  artifactKey: Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AssaultRifle.controller using Guid(0fd0c7a32375e944fa7e5ab975435944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12b670ff04a7070d774d229317276d3') in 0.029721 seconds 
+  Import took 0.072872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.170738 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx
+  artifactKey: Guid(d89ea37480b6d75458aa38843e9688dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx using Guid(d89ea37480b6d75458aa38843e9688dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49426fab2b817b351852f1c5cdd31c2') in 0.691692 seconds 
+  Import took 0.701717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx
+  artifactKey: Guid(51dd2e4c869794f75a0df7d54b210214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx using Guid(51dd2e4c869794f75a0df7d54b210214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0467ac503b4249dac71b657a490129fd') in 0.093902 seconds 
+  Import took 0.122567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002014 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx
+  artifactKey: Guid(dffa50cfe77e0434bbfa71245b3dd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx using Guid(dffa50cfe77e0434bbfa71245b3dd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff12087a0a7a8237c2a5c8813a4a25da') in 0.138077 seconds 
+  Import took 0.143667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx
+  artifactKey: Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx using Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '239710d2118cc6f59cdaa4427c475996') in 0.115394 seconds 
+  Import took 0.122158 seconds .
+
