@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class Robot : MonoBehaviour
 {
+    [SerializeField] GameObject missilePrefab;
     [SerializeField] private string robotType;
 
     public int health;
@@ -46,6 +47,9 @@ public class Robot : MonoBehaviour
 
     void Fire()
     {
+        GameObject missile = Instantiate(missilePrefab);
+        missile.transform.position = missileFireSpot.transform.position;
+        missile.transform.rotation = missileFireSpot.transform.rotation;
         robot.Play("Fire");
     }
 }
