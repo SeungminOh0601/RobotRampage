@@ -9,16 +9,31 @@ public class Gun : MonoBehaviour
     public AudioClip liveFire;
     public AudioClip dryFire;
 
+    public float zoomFactor;
+    public int range;
+    public int damage;
+
     protected float lastFireTime;
+
+    private float zoomFOV;
+    private float zoomSpeed = 6;
 
     private void Start()
     {
+        zoomFOV = Constants.CameraDefaultZoom / zoomFactor;
         lastFireTime = Time.time - 10;
     }
 
     protected virtual void Update()
     {
-
+        if (Input.GetMouseButton(1))
+        {
+            Camera.main.fieldOfView = Mathf.Lerp(Camera.main.fieldOfView, zoomFOV, zoomSpeed * Time.deltaTime);
+        }
+        else
+        {
+            Camera.main.fieldOfView = Constants.CameraDefaultZoom;
+        }
     }
 
     protected void Fire()
@@ -34,5 +49,25 @@ public class Gun : MonoBehaviour
         }
 
         GetComponentInChildren<Animator>().Play("Fire");
+
+        Ray ray = Camera.main.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
+        RaycastHit hit;
+        if (Physics.Raycast(ray, out hit, range))
+        {
+            ProcessHit(hit.collider.gameObject);
+        }
+    }
+
+    private void ProcessHit(GameObject hitObject)
+    {
+        if (hitObject.GetComponent<Player>() != null)
+        {
+            hitObject.GetComponent<Player>().TakeDamage(damage);
+        }
+
+        if (hitObject.GetComponent<Robot>() != null)
+        {
+            hitObject.GetComponent<Robot>().TakeDamage(damage);
+        }
     }
 }
