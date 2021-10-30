@@ -12,6 +12,9 @@ public class Robot : MonoBehaviour
     public float fireRate;
 
     public Transform missileFireSpot;
+
+    public Animator robot;
+
     NavMeshAgent agent;
 
     private Transform player;
@@ -43,6 +46,6 @@ public class Robot : MonoBehaviour
 
     void Fire()
     {
-        Debug.Log("FIRE");
+        robot.Play("Fire");
     }
 }
