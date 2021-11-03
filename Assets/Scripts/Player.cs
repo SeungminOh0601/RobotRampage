@@ -8,6 +8,9 @@ public class Player : MonoBehaviour
     public int armor;
     public GameUI gameUI;
 
+    public Game game;
+    public AudioClip playerDead;
+
     private GunEquipper gunEquipper;
     private Ammo ammo;
     void Start()
@@ -42,7 +45,8 @@ public class Player : MonoBehaviour
 
         if (health <= 0)
         {
-            Debug.Log("GAME OVER");
+            GetComponent<AudioSource>().PlayOneShot(playerDead);
+            game.GameOver();
         }
     }
 
