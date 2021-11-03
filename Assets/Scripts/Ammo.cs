@@ -64,5 +64,7 @@ public class Ammo : MonoBehaviour
         }
 
         tagToAmmo[tag]--;
+
+        gameUI.SetAmmoText(tagToAmmo[tag]);
     }
 }
